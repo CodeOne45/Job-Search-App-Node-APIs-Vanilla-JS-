@@ -5,14 +5,14 @@ Indeed Apis : https://opensource.indeedeng.io/api-documentation/
 
 To do : 
 
-*** Api folder / server
-[ ] : index.js
-[ ] : config.js
-[ ] : server.js
+## Api folder / server
+- [ ] : index.js
+- [ ] : config.js
+- [ ] : server.js
 
-*** Front End / Client
-[ ] : index.html
-[ ] : style.css
+## Front End / Client
+- [ ] : index.html
+- [ ] : style.css
 
 
 
